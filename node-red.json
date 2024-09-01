@@ -1,0 +1,1121 @@
+New! Keyboard shortcuts … Drive keyboard shortcuts have been updated to give you first-letters navigation
+[
+    {
+        "id": "81abe998877880f2",
+        "type": "tab",
+        "label": "IoT Based Water Quality Monitoring System",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "afdde8e63014935d",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6081d54facdde12e",
+            "5baa75c99a7dacb7",
+            "69f74991f46ac96d",
+            "fa11a65f05320fd2",
+            "4fa1c879ba410fde",
+            "9e384a8b608cf516",
+            "931dc00d8a79459c",
+            "b02e2014e2a2cc20",
+            "ff32a92d7cd6cc42",
+            "1ce900b12d60c117",
+            "9a379b7261a56452",
+            "a530790b20596d88"
+        ],
+        "x": 124,
+        "y": 153,
+        "w": 722,
+        "h": 628
+    },
+    {
+        "id": "13b8b093cd4e7c6b",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5fd2c5d590b6dc3f",
+            "279c5655943e8f7a",
+            "560acb1f09578f88",
+            "44e89f39b31b4603",
+            "52d73cdc8d9e7b38",
+            "3c8d91bb594c09bb",
+            "d27c3ff9ebddaa36",
+            "d4b6a9abf1ac2a79",
+            "7b12758d6b2e1471",
+            "5d46729de15ea6a8",
+            "e60756603f47c786",
+            "d891de1bceabd293"
+        ],
+        "x": 894,
+        "y": 319,
+        "w": 1132,
+        "h": 282
+    },
+    {
+        "id": "d8cb302d0a1367da",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6a29ae82f6deb212",
+            "c8171631f0e63fd2",
+            "6f152706612bd870"
+        ],
+        "x": 894,
+        "y": 139,
+        "w": 252,
+        "h": 162
+    },
+    {
+        "id": "f941a2519fe172b3",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "505a9fb2cca4329b",
+            "a7f37603531dcfd9",
+            "2b9ce4a3ceb3ee38"
+        ],
+        "x": 894,
+        "y": 639,
+        "w": 292,
+        "h": 162
+    },
+    {
+        "id": "931dc00d8a79459c",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d3de7e7088ea9353",
+            "9951b6a1f3047375",
+            "63d978a1df7a66c5",
+            "6a8a2be282bdf66c",
+            "bdf646246acc432d"
+        ],
+        "x": 264,
+        "y": 479,
+        "w": 172,
+        "h": 242
+    },
+    {
+        "id": "b02e2014e2a2cc20",
+        "type": "group",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2a88224976e36a0a",
+            "153da510fd115442",
+            "ab6baf319fc66960",
+            "180bce9b93a68aec",
+            "aa882f46532ac08c"
+        ],
+        "x": 274,
+        "y": 179,
+        "w": 172,
+        "h": 242
+    },
+    {
+        "id": "6081d54facdde12e",
+        "type": "delay",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "0",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 600,
+        "y": 320,
+        "wires": [
+            [
+                "c8171631f0e63fd2",
+                "6a29ae82f6deb212",
+                "5fd2c5d590b6dc3f",
+                "ff32a92d7cd6cc42"
+            ]
+        ]
+    },
+    {
+        "id": "5baa75c99a7dacb7",
+        "type": "delay",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "0",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 610,
+        "y": 560,
+        "wires": [
+            [
+                "a7f37603531dcfd9",
+                "505a9fb2cca4329b",
+                "279c5655943e8f7a",
+                "1ce900b12d60c117"
+            ]
+        ]
+    },
+    {
+        "id": "69f74991f46ac96d",
+        "type": "mqtt in",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "",
+        "topic": "Turbidity/reading",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "d6670896eb4c043f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 580,
+        "y": 500,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "fa11a65f05320fd2",
+        "type": "mqtt in",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "",
+        "topic": "PH/reading",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "d6670896eb4c043f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 580,
+        "y": 240,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "4fa1c879ba410fde",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "Turbidity test values (0-1000 NTU)",
+        "info": "",
+        "x": 290,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "9e384a8b608cf516",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "PH test values (0-14 ph)",
+        "info": "",
+        "x": 310,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "d3de7e7088ea9353",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "931dc00d8a79459c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "50",
+        "payloadType": "str",
+        "x": 360,
+        "y": 520,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "9951b6a1f3047375",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "931dc00d8a79459c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "350",
+        "payloadType": "str",
+        "x": 360,
+        "y": 560,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "63d978a1df7a66c5",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "931dc00d8a79459c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "800",
+        "payloadType": "str",
+        "x": 360,
+        "y": 640,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "6a8a2be282bdf66c",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "931dc00d8a79459c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1000",
+        "payloadType": "str",
+        "x": 360,
+        "y": 680,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "bdf646246acc432d",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "931dc00d8a79459c",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "500",
+        "payloadType": "str",
+        "x": 360,
+        "y": 600,
+        "wires": [
+            [
+                "5baa75c99a7dacb7"
+            ]
+        ]
+    },
+    {
+        "id": "2a88224976e36a0a",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "b02e2014e2a2cc20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "str",
+        "x": 370,
+        "y": 220,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "153da510fd115442",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "b02e2014e2a2cc20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "4",
+        "payloadType": "str",
+        "x": 370,
+        "y": 260,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "ab6baf319fc66960",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "b02e2014e2a2cc20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "10",
+        "payloadType": "str",
+        "x": 370,
+        "y": 340,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "180bce9b93a68aec",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "b02e2014e2a2cc20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "14",
+        "payloadType": "str",
+        "x": 370,
+        "y": 380,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "aa882f46532ac08c",
+        "type": "inject",
+        "z": "81abe998877880f2",
+        "g": "b02e2014e2a2cc20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "8",
+        "payloadType": "str",
+        "x": 370,
+        "y": 300,
+        "wires": [
+            [
+                "6081d54facdde12e"
+            ]
+        ]
+    },
+    {
+        "id": "5fd2c5d590b6dc3f",
+        "type": "function",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "PH sensor threshold",
+        "func": "var ph_threshold = msg.payload;\n\nif (ph_threshold > 7) \n{\n    msg = \n    {\n        payload: \n        {\n            type: 'message',\n            content: \"PH Alarm, Value: \" + ph_threshold + '\\n' + new Date().toString(),\n            chatId: '-1002154915496'\n        }\n    };\n\n    return msg;\n} \n\nelse \n{\n    msg.payload = 'off'\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 360,
+        "wires": [
+            [
+                "560acb1f09578f88",
+                "44e89f39b31b4603",
+                "3c8d91bb594c09bb"
+            ]
+        ]
+    },
+    {
+        "id": "505a9fb2cca4329b",
+        "type": "ui_gauge",
+        "z": "81abe998877880f2",
+        "g": "f941a2519fe172b3",
+        "name": "Turbidity Sensor Gauge",
+        "group": "539c291ba1ff720f",
+        "order": 1,
+        "width": "0",
+        "height": "0",
+        "gtype": "gage",
+        "title": "Turbidity Sensor Gauge",
+        "label": "NTU",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "180",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1030,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "6a29ae82f6deb212",
+        "type": "ui_gauge",
+        "z": "81abe998877880f2",
+        "g": "d8cb302d0a1367da",
+        "name": "PH Sensor Gauge",
+        "group": "0a9f878f0b06b3f6",
+        "order": 1,
+        "width": "0",
+        "height": "0",
+        "gtype": "gage",
+        "title": "PH Sensor Gauge",
+        "label": "ph",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "14",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1010,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "c8171631f0e63fd2",
+        "type": "ui_chart",
+        "z": "81abe998877880f2",
+        "g": "d8cb302d0a1367da",
+        "name": "PH Sensor Chart",
+        "group": "0a9f878f0b06b3f6",
+        "order": 2,
+        "width": "0",
+        "height": "0",
+        "label": "PH Sensor Chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "monotone",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "14",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1010,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a7f37603531dcfd9",
+        "type": "ui_chart",
+        "z": "81abe998877880f2",
+        "g": "f941a2519fe172b3",
+        "name": "",
+        "group": "539c291ba1ff720f",
+        "order": 2,
+        "width": "0",
+        "height": "0",
+        "label": "Turbidity Sensor Chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "monotone",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "1000",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1020,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "279c5655943e8f7a",
+        "type": "function",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "Turbidity sensor threshold",
+        "func": "var turbidity_threshold = msg.payload;\nif (turbidity_threshold > 100) \n{\n    msg = \n    {\n        payload:\n        {\n            type: 'message',\n            content: \"Turbidity Alarm, Value: \" + turbidity_threshold + '\\n' + new Date().toString(),\n            chatId: '-1002154915496'\n        }\n    };\n\n    return msg;\n\n} \n\nelse \n{\n    msg.payload = \"off\"\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 560,
+        "wires": [
+            [
+                "560acb1f09578f88",
+                "d27c3ff9ebddaa36",
+                "5d46729de15ea6a8"
+            ]
+        ]
+    },
+    {
+        "id": "ff32a92d7cd6cc42",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "debug: PH Reading Received?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 670,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "1ce900b12d60c117",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "debug: Turbidity Reading Received?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "9a379b7261a56452",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "Real PH values received by this MQTT topic:",
+        "info": "",
+        "x": 630,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "a530790b20596d88",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "afdde8e63014935d",
+        "name": "Real Turbidity values received by this MQTT topic:",
+        "info": "",
+        "x": 630,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "560acb1f09578f88",
+        "type": "telegram sender",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "Telegram Bot Alarm",
+        "bot": "0d1ad1925b6b3b1a",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1030,
+        "y": 460,
+        "wires": [
+            [
+                "d4b6a9abf1ac2a79"
+            ]
+        ]
+    },
+    {
+        "id": "44e89f39b31b4603",
+        "type": "function",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "PH Alarm",
+        "func": "if (msg.payload && msg.payload.type === 'message' && \n    msg.payload.content && msg.payload.content.includes('PH Alarm')) {\n    msg.payload = \"Warning: High PH level detected!\";\n    return msg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1560,
+        "y": 440,
+        "wires": [
+            [
+                "7b12758d6b2e1471",
+                "d891de1bceabd293"
+            ]
+        ]
+    },
+    {
+        "id": "6f152706612bd870",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "d8cb302d0a1367da",
+        "name": "PH Values Dashboard",
+        "info": "",
+        "x": 1020,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "2b9ce4a3ceb3ee38",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "f941a2519fe172b3",
+        "name": "Turbidity Values Dashboard",
+        "info": "",
+        "x": 1040,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "52d73cdc8d9e7b38",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "Alarm System",
+        "info": "",
+        "x": 1930,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "310fcb89852b27b9",
+        "type": "comment",
+        "z": "81abe998877880f2",
+        "name": "IoT Based Water Quality Monitoring System",
+        "info": "",
+        "x": 990,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "3c8d91bb594c09bb",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "debug: PH threshold correct ?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1290,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "d27c3ff9ebddaa36",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "debug: Turbidity threshold correct ?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1300,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "d4b6a9abf1ac2a79",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "debug: Alram Working?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1270,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "7b12758d6b2e1471",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "debug: Emergency or No Emergency?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1630,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "5d46729de15ea6a8",
+        "type": "function",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "Turbidity Alarm ",
+        "func": "if (msg.payload && msg.payload.type === 'message' && \n    msg.payload.content && msg.payload.content.includes('Turbidity Alarm')) {\n    msg.payload = \"Warning: High turbidity level detected!\";\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1580,
+        "y": 480,
+        "wires": [
+            [
+                "e60756603f47c786",
+                "d891de1bceabd293"
+            ]
+        ]
+    },
+    {
+        "id": "e60756603f47c786",
+        "type": "debug",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "debug: Emergency or No Emergency?",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1650,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "d891de1bceabd293",
+        "type": "play audio",
+        "z": "81abe998877880f2",
+        "g": "13b8b093cd4e7c6b",
+        "name": "",
+        "voice": "3",
+        "x": 1790,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "d6670896eb4c043f",
+        "type": "mqtt-broker",
+        "name": "broker.emqx.io",
+        "broker": "broker.emqx.io",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "300",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "539c291ba1ff720f",
+        "type": "ui_group",
+        "name": "Turbidity Sensor",
+        "tab": "37b5f90d.5e1ef2",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0a9f878f0b06b3f6",
+        "type": "ui_group",
+        "name": "Light",
+        "tab": "37b5f90d.5e1ef2",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "0d1ad1925b6b3b1a",
+        "type": "telegram bot",
+        "botname": "Water_Quality_IoT_System_bot",
+        "usernames": "",
+        "chatids": "",
+        "baseapiurl": "",
+        "updatemode": "polling",
+        "pollinterval": "300",
+        "usesocks": false,
+        "sockshost": "",
+        "socksprotocol": "socks5",
+        "socksport": "6667",
+        "socksusername": "anonymous",
+        "sockspassword": "",
+        "bothost": "",
+        "botpath": "",
+        "localbotport": "8443",
+        "publicbotport": "8443",
+        "privatekey": "",
+        "certificate": "",
+        "useselfsignedcertificate": false,
+        "sslterminated": false,
+        "verboselogging": false
+    },
+    {
+        "id": "37b5f90d.5e1ef2",
+        "type": "ui_tab",
+        "name": "IoT Based Water Quality Monitoring System",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]
